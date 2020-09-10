@@ -43,10 +43,10 @@ To install WooCommerce:
 
 ![Image](https://paymooney.com/images/step5.PNG)
 
-5. Check to enable this payment gateway.
+5. Check to enable PayMooney.
 6. Enter the payment **Title** and **Description**.
-7. Enter your PayMooney **Service key**.
-8. Enter your PayMooney **Service secret**.
+7. Enter your PayMooney **Public key**.
+8. Enter your PayMooney **Secret key**.
 9. Click ***"Save Changes"***
 
 If you have any questions or need help, do not hesitate to contact us at [infos@paymooney.com](https://paymooney.com)
