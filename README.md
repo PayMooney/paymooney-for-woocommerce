@@ -29,7 +29,7 @@ To install WooCommerce:
 
 ![Image](https://paymooney.com/images/step2.png)
 
-2. Upload ***PayMooney for WooCommerce*** and click on ***Install*** then ***Activate Plugin***..
+2. ***Clone***(git clone https://github.com/Monetbil/monetbil-wordpress-woocommerce.git) or ***download project*** then upload ***PayMooney for WooCommerce zip file *** and click on ***Install*** then ***Activate Plugin***..
 
 ![Image](https://paymooney.com/images/step3.PNG)
 
